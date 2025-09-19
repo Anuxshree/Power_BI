@@ -1,4 +1,4 @@
-                                                                GDP AND PODUCTIVITY OF INDIAN CITIES - DATA ANALYSIS PROJECT
+                                               GDP AND PODUCTIVITY OF INDIAN CITIES - DATA ANALYSIS PROJECT
 
 📊 Project Title: GDP and Productivity Dashboard of Indian Cities
 Overview:
