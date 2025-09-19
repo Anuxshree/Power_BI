@@ -1,3 +1,5 @@
+                                                                GDP AND PODUCTIVITY OF INDIAN CITIES - DATA ANALYSIS PROJECT
+
 📊 Project Title: GDP and Productivity Dashboard of Indian Cities
 Overview:
 This project is a comprehensive data visualization solution built using Power BI, aimed at analyzing and comparing the Gross Domestic Product (GDP) and productivity metrics of major Indian cities. It empowers users—policy makers, researchers, and urban planners—with actionable insights into regional economic performance.
